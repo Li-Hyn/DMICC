@@ -2,7 +2,7 @@
 
 ##Setup environment
 Install packages as:
-pip install Demo.yaml
+pip install DMICC.yaml
 
 ##Training
 To train DMICC, we take main.py as an example, run the following commands sequentially to perform our method on STL-10:
